@@ -1,7 +1,7 @@
 terraform {
 
   cloud {
-    organization = "organization-name"
+    organization = "from-scretch"
 
     workspaces {
       name = "learn-terraform-cloud"
